@@ -35,7 +35,7 @@ __Installer un IDE sur son ordinateur__
  
 __*Dans notre cas nous allons installer Visual Studio Code*__
 
-Pour l'installation merci de suivre les étapes suivantes:
+Pour l'installation merci de suivre les étapes suivantes:  
 *. Rendez-vous à l'adresse https://code.visualstudio.com/
 *. Cliquez sur le bouton Download for Windows
 *. Démarrez l'exécutable du programme d'installation
